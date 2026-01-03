@@ -1,16 +1,54 @@
-# React + Vite
+# Daniely Ventura – Portfólio Pessoal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório contém o portfólio pessoal, desenvolvido para apresentar meus projetos de Front-end e habilidades em desenvolvimento web. 
+O site é clean, responsivo e moderno, focado em usabilidade e experiência do usuário.
 
-Currently, two official plugins are available:
+# Sobre o projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O portfólio inclui:
 
-## React Compiler
+Página inicial com nome, breve descrição e introdução
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+Seção de projetos com links para o projeto
 
-## Expanding the ESLint configuration
+Layout responsivo para desktop e mobile
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Componentes reutilizáveis com React
+
+# Tecnologias utilizadas
+
+HTML5 – Estrutura semântica
+
+CSS3 – Layout responsivo, Flexbox/Grid, animações
+
+JavaScript – Interatividade e lógica
+
+React – Componentes reutilizáveis, Hooks e gerenciamento de estado
+
+Git / GitHub – Versionamento de código
+
+# Como rodar: 
+
+Clone o repositório
+git clone https://github.com/danielyvl/portf.git
+
+Acesse a pasta do projeto
+* cd 
+
+Instale as dependências
+* npm install
+
+Rode o projeto
+* npm start
+
+# Links importantes
+
+Portfólio online: (https://portf-sigma-indol.vercel.app/)
+
+Código-fonte completo: (https://github.com/danielyvf/portf)
+
+# Contato
+
+E-mail: danielyvl@gmail.com
+
+LinkedIn: linkedin.com/in/danielyvfl
