@@ -1,7 +1,8 @@
 import React, { useLayoutEffect, useState, useRef } from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
-import Lenis from '@studio-freight/lenis';
+import Lenis from 'lenis';
+
 
 // IMPORTAÇÃO DAS IMAGENS (7 PROJETOS)
 import pagina1 from "../assets/images/pagina1.jpg";
